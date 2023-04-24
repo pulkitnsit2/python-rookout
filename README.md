@@ -10,3 +10,4 @@
 'request.args: \<Missing>, request.url: \<Missing>'  
 instead of  
 'request.args: {'test': ['true']}, request.url: http://localhost:1337/?test=true'
+8. Same log message can be seen printed by python logger due to line client_server.py:34
